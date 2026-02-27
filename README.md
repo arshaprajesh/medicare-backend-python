@@ -45,6 +45,8 @@ It:
   Setup Instructions
 
   1. Clone the repository
+     https://github.com/arshaprajesh/medicare-backend-python.git
+     
   2. Create and activate a virtual environment
      python3 -m venv venv
      source venv/bin/activate
